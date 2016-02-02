@@ -1,4 +1,4 @@
-ranking,issue,highest priority (%),second priority (%),third priority (%),percentage who rated it in top 3 issues
+ranking,issue,highest priority (%),second priority (%),third priority (%), sum
 1,Who should be the primary decision makers,13,35,20,68.00
 2,"Safety, control and ethical frameworks",25,18,16,59.00
 3,Transparency and monitoring of technologies,21,14,15,50.00
